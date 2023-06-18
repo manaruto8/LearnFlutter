@@ -1,16 +1,10 @@
-# flutter_learn
+# Learn Flutter
 
-Learn Flutter
+### learnDart
+学习Dart语法
 
-## Getting Started
+### learnWidget
+学习Widget生命周期，状态管理，路由管理
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### learnControl
+学习基本控件属性及布局控件使用
